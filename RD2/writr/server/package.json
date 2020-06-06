@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "6.4.0",
-    "apollo-server": "^2.8.1",
+    "apollo-server": "^2.14.2",
     "bcryptjs": "2.4.3",
     "extends-classes": "1.0.5",
     "graphql": "^14.4.2",
